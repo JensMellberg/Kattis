@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\bin\Debug\net7.0\MultiplicationGame.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\bin\Debug\net7.0\MultiplicationGame.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\bin\Debug\net7.0\MultiplicationGame.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\bin\Debug\net7.0\MultiplicationGame.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\bin\Debug\net7.0\MultiplicationGame.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\refint\MultiplicationGame.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\MultiplicationGame.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\MultiplicationGame\obj\Debug\net7.0\ref\MultiplicationGame.dll

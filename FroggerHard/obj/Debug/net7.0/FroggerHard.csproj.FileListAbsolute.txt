@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\bin\Debug\net7.0\FroggerHard.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\bin\Debug\net7.0\FroggerHard.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\bin\Debug\net7.0\FroggerHard.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\bin\Debug\net7.0\FroggerHard.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\bin\Debug\net7.0\FroggerHard.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\refint\FroggerHard.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\FroggerHard.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerHard\obj\Debug\net7.0\ref\FroggerHard.dll

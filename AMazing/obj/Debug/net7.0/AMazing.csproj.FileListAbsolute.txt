@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\bin\Debug\net7.0\AMazing.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\bin\Debug\net7.0\AMazing.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\bin\Debug\net7.0\AMazing.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\bin\Debug\net7.0\AMazing.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\bin\Debug\net7.0\AMazing.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\refint\AMazing.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\AMazing.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AMazing\obj\Debug\net7.0\ref\AMazing.dll

@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\bin\Debug\net7.0\10KindsOfPeople.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\bin\Debug\net7.0\10KindsOfPeople.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\bin\Debug\net7.0\10KindsOfPeople.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\bin\Debug\net7.0\10KindsOfPeople.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\bin\Debug\net7.0\10KindsOfPeople.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\refint\10KindsOfPeople.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\10KindsOfPeople.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\10KindsOfPeople\obj\Debug\net7.0\ref\10KindsOfPeople.dll

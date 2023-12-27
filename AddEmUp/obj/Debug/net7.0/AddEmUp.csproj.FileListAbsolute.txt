@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\bin\Debug\net7.0\AddEmUp.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\bin\Debug\net7.0\AddEmUp.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\bin\Debug\net7.0\AddEmUp.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\bin\Debug\net7.0\AddEmUp.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\bin\Debug\net7.0\AddEmUp.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\refint\AddEmUp.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\AddEmUp.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AddEmUp\obj\Debug\net7.0\ref\AddEmUp.dll

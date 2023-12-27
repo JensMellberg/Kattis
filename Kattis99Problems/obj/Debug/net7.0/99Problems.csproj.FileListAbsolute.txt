@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\bin\Debug\net7.0\99Problems.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\bin\Debug\net7.0\99Problems.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\bin\Debug\net7.0\99Problems.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\bin\Debug\net7.0\99Problems.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\bin\Debug\net7.0\99Problems.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\refint\99Problems.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\99Problems.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\Kattis99Problems\obj\Debug\net7.0\ref\99Problems.dll

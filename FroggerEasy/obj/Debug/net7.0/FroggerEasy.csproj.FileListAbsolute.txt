@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\bin\Debug\net7.0\FroggerEasy.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\bin\Debug\net7.0\FroggerEasy.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\bin\Debug\net7.0\FroggerEasy.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\bin\Debug\net7.0\FroggerEasy.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\bin\Debug\net7.0\FroggerEasy.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\refint\FroggerEasy.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\FroggerEasy.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\FroggerEasy\obj\Debug\net7.0\ref\FroggerEasy.dll

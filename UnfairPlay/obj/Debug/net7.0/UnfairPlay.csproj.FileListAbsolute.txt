@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\bin\Debug\net7.0\UnfairPlay.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\bin\Debug\net7.0\UnfairPlay.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\bin\Debug\net7.0\UnfairPlay.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\bin\Debug\net7.0\UnfairPlay.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\bin\Debug\net7.0\UnfairPlay.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\refint\UnfairPlay.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\UnfairPlay.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\UnfairPlay\obj\Debug\net7.0\ref\UnfairPlay.dll

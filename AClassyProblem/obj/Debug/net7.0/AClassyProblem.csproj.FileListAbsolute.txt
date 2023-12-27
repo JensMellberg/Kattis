@@ -1,0 +1,15 @@
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\bin\Debug\net7.0\AClassyProblem.exe
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\bin\Debug\net7.0\AClassyProblem.deps.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\bin\Debug\net7.0\AClassyProblem.runtimeconfig.json
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\bin\Debug\net7.0\AClassyProblem.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\bin\Debug\net7.0\AClassyProblem.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.csproj.AssemblyReference.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.AssemblyInfoInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.AssemblyInfo.cs
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.csproj.CoreCompileInputs.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\refint\AClassyProblem.dll
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.pdb
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\AClassyProblem.genruntimeconfig.cache
+C:\Users\Camilla\source\repos\Kattis99Problems\AClassyProblem\obj\Debug\net7.0\ref\AClassyProblem.dll
